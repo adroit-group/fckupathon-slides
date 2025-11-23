@@ -1,0 +1,8 @@
+[tools]
+node = "24"
+pnpm = "10"
+
+[settings]
+lockfile = true
+auto_install = true
+experimental = true
