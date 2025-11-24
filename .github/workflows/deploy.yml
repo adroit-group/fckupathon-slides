@@ -33,7 +33,12 @@ jobs:
         run: pnpm install
 
       - name: Build slides
-        run: pnpm build slides*.md --base /${{ github.event.repository.name }}/
+        run: |
+          for file in slides*.md; do
+            basename="${file%.md}"
+            echo "Building $file with base path /${{ github.event.repository.name }}/$basename/"
+            pnpm build "$file" --base "/${{ github.event.repository.name }}/$basename/" --out "dist/$basename"
+          done
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
