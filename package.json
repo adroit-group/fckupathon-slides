@@ -26,12 +26,16 @@
       "slidev",
       "qrcode",
       "fuckupathon",
-      "fckupathon"
+      "fckupathon",
+      "shoutout",
+      "giphy"
     ],
     "ignorePaths": [
       "node_modules",
       "pnpm-lock.yaml",
-      "pnpm-workspace.yaml"
+      "pnpm-workspace.yaml",
+      "public/*",
+      "dist/*"
     ]
   },
   "prettier": {
@@ -43,6 +47,7 @@
       {
         "files": [
           "slides.md",
+          "slides*.md",
           "pages/*.md"
         ],
         "options": {
