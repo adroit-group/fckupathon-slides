@@ -3,7 +3,7 @@ theme: apple-basic
 title: "Fckupathon Game of Codes: Winter is encoding"
 drawings:
   persist: false
-transition: slide-down
+transition: slide-up
 mdc: true
 layout: center
 ---
@@ -16,16 +16,16 @@ Game of Codes: Winter is Encoding
 layout: two-cols
 ---
 
-Come work with us!
-<QRCode value="https://adroitgroup.io/career" />
-
-::right::
-
 # We're Adroit.
 
 A fully remote developer team based in Hungary, crafting beautiful and functional products, websites, and mobile apps.
 
 <iframe src="https://giphy.com/embed/B4dt6rXq6nABilHTYM" width="480" height="451" style="" frameBorder="0" class="giphy-embed" />
+
+::right::
+
+Come work with us!
+<QRCode value="https://adroitgroup.io/career" />
 
 <!--
 - We are a remote development company, we do everything from devopsy stuff through huge distributed systems to mobile apps.
