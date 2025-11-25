@@ -20,7 +20,7 @@ layout: two-cols
 
 A fully remote developer team based in Hungary, crafting beautiful and functional products, websites, and mobile apps.
 
-<iframe src="https://giphy.com/embed/B4dt6rXq6nABilHTYM" width="480" height="451" style="" frameBorder="0" class="giphy-embed" />
+<iframe src="https://giphy.com/embed/B4dt6rXq6nABilHTYM" width="380" height="382" style="" frameBorder="0" class="giphy-embed" />
 
 ::right::
 
