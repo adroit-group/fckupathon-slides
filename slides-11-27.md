@@ -127,6 +127,11 @@ const lenny = {
 console.log(encode(lenny))
 ```
 
+<!--
+- Lucky for me we don't have to center a div, cuz the dot breaks the word wrap in the eval loop, let's fix that really quick. (this is intentional)
+- Without throwing shade the value encode comes from one of the biggest delivery company's public API docs, allegedly ofc.
+-->
+
 ---
 layout: center
 ---
