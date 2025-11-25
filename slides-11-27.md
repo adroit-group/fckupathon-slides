@@ -55,7 +55,6 @@ layout: two-cols
 <iframe src="https://giphy.com/embed/137TKgM3d2XQjK" width="471" height="480" style="" frameBorder="0" class="giphy-embed" />
 
 <!--
-- Talk about the task at hand
 - It's recommended to form 4-5 ppl teams and split up the tasks but we're not yo mama.
 - Yes the pizza is free, we know that's why you guys are here anyways.
 - It's crazy that you cannot commit war crimes anymore without it being an implicit political statement, but I did it anyways.
@@ -90,7 +89,9 @@ Here's the deal: we got an **input.json** with some complex data.
 
 Right now it's boring JSON, but your job? Make it _absolutely unhinged_.
 
-<QRCode size="200" value="/input.json" />
+<QRCode size="200" value="https://adroit-group.github.io/fckupathon-slides/slides-11-27/input.json" />
+
+[https://adroit-group.github.io/fckupathon-slides/slides-11-27/input.json](https://adroit-group.github.io/fckupathon-slides/slides-11-27/input.json)
 
 ::right::
 
@@ -143,3 +144,16 @@ layout: center
 <!--
 Todo: please be so kind to add the url for the voting good sir!-
 -->
+
+---
+layout: end
+---
+
+# Thank you for your time!
+
+You can find this presentation right here:
+| | |
+|--- | --- |
+|[https://adroit-group.github.io/fckupathon-slides/slides-11-27](https://adroit-group.github.io/fckupathon-slides/slides-11-27) | <QRCode size="200" value="https://adroit-group.github.io/fckupathon-slides/slides-11-27" />|
+
+<img src="/powered-by.svg" width="400" height="400" />
