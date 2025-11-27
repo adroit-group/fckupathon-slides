@@ -139,7 +139,7 @@ layout: center
 
 # Voting
 
-<QRCode value="" />
+<QRCode value="https://strawpoll.com/kjn1DXoeeyQ" />
 
 <!--
 Todo: please be so kind to add the url for the voting good sir!-
